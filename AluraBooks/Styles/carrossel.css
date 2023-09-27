@@ -95,13 +95,13 @@
     }
 
     .swiper{
-        width: 60%;
+        width: 70%;
     }
 
     .swiper-button-prev,
     .swiper-button-next{
         display: block;
-        top: 33%;
+        top: 28%;
         margin: 0 -1.1em;
         z-index: 1;
     }
